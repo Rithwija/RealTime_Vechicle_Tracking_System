@@ -1,4 +1,4 @@
-# RealTime_Vechicle_Tracking_System
+
 # Real-Time Vehicle Tracking System
 
 This project is a Jupyter Notebook that demonstrates how a vehicle’s movement can be tracked using data analysis techniques. It walks through loading location data, cleaning it, analyzing movement patterns, and visualizing results. It’s a simple but practical starting point for real-world tracking systems used in logistics, transportation, and safety applications.
